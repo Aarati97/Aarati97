@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Junior Project Coordinator Internship<br>💻 I have knowledge of HTML, CSS, and MySQL<br>🏆 Achievement: Got 1st Rank in a Hackathon<br>🚀 Hackathon Project: Underground Drainage System using Sensors (Smart monitoring & management
+🔭 I’m currently working on a Junior Project Coordinator Internship<br>💻 I have knowledge of HTML, CSS, and MySQL<br>🏆 Achievement: Got 1st Rank in a Hackathon<br>🚀 Hackathon Project: Underground Drainage System using Sensors (Smart monitoring & management)
 
 
 ## 🌐 Socials:
